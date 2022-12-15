@@ -1,0 +1,17 @@
+body,
+html {
+  font-size: 16px;
+  background: #E6E7E9;
+}
+
+.c-header__menu {
+  width: 100%;
+  height: auto;
+  display: flex;
+}
+.c-header__menu-left {
+  width: 100%;
+  max-width: 485px;
+  padding: 2em;
+  background-color: aqua;
+}/*# sourceMappingURL=style.css.map */
